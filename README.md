@@ -1,2 +1,2 @@
 # poster-project
-Zhang YInglu personal poster project
+Zhang Yinglu personal poster project
